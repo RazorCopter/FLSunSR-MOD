@@ -76,3 +76,13 @@ baud: 250000
 ```
 ls /dev/ttyAMA*
 ```
+
+
+
+
+
+
+
+
+
+![coffee](coffee.png)
