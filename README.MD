@@ -26,7 +26,7 @@ URL: https://github.com/th33xitus/kiauh
 > Raspberry 
 > Optional Display 
 > Elettrical connection:
-![link](link.png)
+![PinLink](pinOutRasp.png)
 
 # STEP 1:
 - Install Mainsail OS 
