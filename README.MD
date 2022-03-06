@@ -41,12 +41,14 @@ cd klipper
 make menuconfig
 ```
 - ############################### SETTINGS ##############################
+```
       > Micro-controller Architecture (STMicroelectronics STM32)  --->
       > Processor model (STM32F407)  --->
       > Bootloader offset (48KiB bootloader (MKS Robin Nano V3))  --->
       > Clock Reference (8 MHz crystal)  --->
       > Communication interface (Serial (on USART1 PA10/PA9))  --->
       > (250000) Baud rate for serial port
+```
 - Q > Yes
 - Command: 
 ```
