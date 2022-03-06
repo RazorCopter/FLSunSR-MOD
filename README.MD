@@ -82,12 +82,10 @@ ls /dev/ttyAMA*
 
 
 
-<details><summary>CLICK ME</summary>
-<p>
+
 ![coffeee](coffee.png)
 
-</p>
-</details>
+
 
 
 
