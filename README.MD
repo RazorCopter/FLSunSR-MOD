@@ -7,6 +7,7 @@
 ################### HW MOD ####################
 + Raspberry Pi 3B
 + Display IPS Capacitive 4.3"
+
 ################### SW MOD #####################
 - Klipper v0.10.x
 - MainSail  v2.1.2
