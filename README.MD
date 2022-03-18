@@ -1,12 +1,18 @@
-![Logo](logo.jpg)
+![Logo](log0.jpg)
 
 
 
 # Klipper + MAINSAIL >> FLSUN_SR
 
 ################### HW MOD ####################
-+ Raspberry Pi 3B
-+ Display IPS Capacitive 4.3"
++ Raspberry Pi 3B+
++ MASP HEAT BREAK [CTCORE®] + VOLCANO
++ 2X NOCTUA FAN
++ DUALDRIVE BONDTECH EXTRUDER
++ LED-STRIP IN TOWERS 2835 24V
++ DISPLAY IPS 4.3" TOUCH CAPACITIVE
++ HOUSING & FAN DUCT REDESIGNED
++ CAM FULLHD
 
 ################### SW MOD #####################
 - Klipper v0.10.x
