@@ -6,7 +6,7 @@
 
 ################### HW MOD ####################
 + Raspberry Pi 3B+
-+ MASP HEAT BREAK [CTCORE®] + VOLCANO
++ MASP HEAT BREAK [CTCore®] + VOLCANO
 + 2X NOCTUA FAN
 + DUALDRIVE BONDTECH EXTRUDER
 + LED-STRIP IN TOWERS 2835 24V
